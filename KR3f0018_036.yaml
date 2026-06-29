@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0018/krp/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書御製厯象考成表卷四下月離表三二三均數表下之三御製厯象考成表卷四下
+  hash: sha256:bda3b8065a84775db6f34652049bb4f7759e8295ea698b1e025f0f6f3e009188
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0018_WYG_036-1a, image: WYG0791/WYG0791-0215c.png}
+metadata:
+  title: 御製歷象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:48.943046'
+  juan_title: 表卷四下
+  source:
+    repository: kanripo
+    path: KR3f0018/KR3f0018_036.txt
+hash: sha256:f6dafa461948e294a1653878706f9ce61a12bc0b803c0323e28957c0702171f0

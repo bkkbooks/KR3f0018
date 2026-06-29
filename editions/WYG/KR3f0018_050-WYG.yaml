@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0018/WYG/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書御製厯象考成表卷十六黄赤經緯互推表下黄道緯南初度至十度御製厯象考成表卷十六
+  hash: sha256:db0806f13592346b11e296647fd3f06606d5f87bcfa59f92b7a500e5ebfc332c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0018_WYG_050-1a, image: WYG0791/WYG0791-0565a.png}
+metadata:
+  title: 御製歷象考成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:48.943046'
+  juan_title: 表卷十六
+  source:
+    repository: kanripo
+    path: KR3f0018/KR3f0018_050.txt
+hash: sha256:8d059ba86d6bc41dde5f9eaeede4abac09f35edbd946d7e46bb992f693bedc9e

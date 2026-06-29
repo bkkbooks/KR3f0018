@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0018/WYG/v1/juan/33
+seq: 33
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書御製厯象考成表卷三下月離表二三均數表御製厯象考成表卷三下
+  hash: sha256:c92d4ac90b6e402c74833692e24c7cb80156f4b1872081aeefed158ff4a922df
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0018_WYG_033-1a, image: WYG0791/WYG0791-0166c.png}
+metadata:
+  title: 御製歷象考成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:48.943046'
+  juan_title: 表卷三下
+  source:
+    repository: kanripo
+    path: KR3f0018/KR3f0018_033.txt
+hash: sha256:6f1c67ba8110e952157f6f53e4190f020b97970a3bcbce228424145305888ed3

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0018/WYG/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書御製厯象考成下編目錄明時正度卷一日躔厯法卷二月離厯法卷三月食厯法卷四日食厯法卷五土星厯法卷六木星厯法卷七火星厯法卷八金星厯法卷九水星厯法卷十恒星厯法
+  hash: sha256:3be01e1eb8cf88ef9098dcf6bbb0a6db90d5d5069dd12302b8d5e12a51673231
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0018_WYG_017-1a, image: WYG0790/WYG0790-0610a.png}
+metadata:
+  title: 御製歷象考成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:48.943046'
+  juan_title: 下編目錄
+  source:
+    repository: kanripo
+    path: KR3f0018/KR3f0018_017.txt
+hash: sha256:5b8b7d4f58bbbfb0e47d2643c34f51aec49267bb193e05ec035e8023c397d868

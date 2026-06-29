@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0018/WYG/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書御製厯象考成表卷七上交食表三黄平象限表下自北極高三十一度至北極高三十八度御製厯象考成表卷七上
+  hash: sha256:36e94886939c122d8318df799f46a4f11bc9c8240f8f97fff6b95b876a1c3df3
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0018_WYG_040-1a, image: WYG0791/WYG0791-0302c.png}
+metadata:
+  title: 御製歷象考成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:48.943046'
+  juan_title: 表卷七上
+  source:
+    repository: kanripo
+    path: KR3f0018/KR3f0018_040.txt
+hash: sha256:69140102e567d153458d72048207fd545f67284d2b5116c3207ec141acc92a0c
