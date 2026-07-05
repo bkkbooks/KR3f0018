@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書御製厯象考成表卷一日躔表卷二月離表一卷三月離表二卷四月離表三卷五交食表一卷六交食表二卷七交食表三卷八交食表四卷九土星表卷十木星表卷十一火星表卷十二金星表卷十三水星表卷十四恆星表卷十五黃赤經緯互推表上卷十六黃赤經緯互推表下
-  hash: sha256:b3a279631f9a1069713391eb9bf0192f3b603b6af6028e17143cd1e721f4cfe7
+  text: 欽定四庫全書御製厯象考成表卷一日躔表卷二月離表一卷三月離表二卷四月離表三卷五交食表一卷六交食表二卷七交食表三卷八交食表四卷九土星表卷十木星表卷十一火星表卷十二金星表卷十三水星表卷十四恒星表卷十五黄赤經緯互推表上卷十六黄赤經緯互推表下
+  hash: sha256:31c92d25a1c160aa2d16622f597df2bfc52259e038ca77f092626f05392a267e
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3f0018_WYG_028-1a, image: WYG0791/WYG0791-0080c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3f0018/KR3f0018_028.txt
-hash: sha256:c2d426fa06276066df53015d8eb148ecd6f1b8de37b5efca50b3c9ed04c9068a
+hash: sha256:266797dffb9f2af98040afc43707d46b9a44df8e598c0f9ff7888f2525db417d
