@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書御製厯象考成表卷十六黄赤經緯互推表下黄道緯南初度至十度御製厯象考成表卷十六
-  hash: sha256:db0806f13592346b11e296647fd3f06606d5f87bcfa59f92b7a500e5ebfc332c
+  text: 欽定四庫全書御製厯象考成表卷十六黃赤經緯互推表下黃道緯南初度至十度御製厯象考成表卷十六
+  hash: sha256:e97f7567961700ab29b734b7f834d6d39c07fa82f3574ccb2e182e49bce2d76d
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3f0018_WYG_050-1a, image: WYG0791/WYG0791-0565a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3f0018/KR3f0018_050.txt
-hash: sha256:f5405d9c7d510656ff3618613beb132936b7066c49824d8685405362a176f6ec
+hash: sha256:01c01dd591ec17ca1b0f1bdc655a444dc84fd21bff8f9fb8c4a706e2059a3246

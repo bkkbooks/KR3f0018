@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書御製厯象考成表卷六下交食表二黄平象限表上之二自北極高二十三度至北極高三十度御製厯象考成表卷六下
-  hash: sha256:80319efbfd6359505f29017068af7a7c9e98746cc951bdccde6c68a4b8786675
+  text: 欽定四庫全書御製厯象考成表卷六下交食表二黃平象限表上之二自北極高二十三度至北極高三十度御製厯象考成表卷六下
+  hash: sha256:088a987b3e21e9c9fa91f248f265dc2e6827508a2025870cbb5ebaa832304058
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3f0018_WYG_039-1a, image: WYG0791/WYG0791-0276c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3f0018/KR3f0018_039.txt
-hash: sha256:4fd6375c176157cebc499e7c84e91e9d997f8a3cd7ab7b0ba16444fe3024c12c
+hash: sha256:88118d32d56b051b33ab53ceb10d3f22040a67fe4efd530d691b39bc8bfb16a0
